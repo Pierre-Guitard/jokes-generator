@@ -1,2 +1,6 @@
-pdo.php
+/vendor/
+/.env
+*.log
+*.tmp
+*.cache
 .env
